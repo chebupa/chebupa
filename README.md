@@ -46,4 +46,4 @@
   <img src="https://profile-counter.glitch.me/chebupa/count.svg" />
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Chebupa/Chebupa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Chebupa/Chebupa/output/github-contribution-grid-snake.svg#gh-light-mode-only)
