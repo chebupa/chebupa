@@ -3,12 +3,13 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aristarh</a> </h1>
 <h3 align="center">Computer science student</h3>
 
-[![codewars](https://www.codewars.com/users/Chebupela/badges/small)](https://www.codewars.com/users/Chebupela)  
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1&color=20F700&center=true&vCenter=true&width=435&lines=Computer+science+student;and+a+frontend+developer" alt="Typing SVG" /></a>
 </h1>
 
+<h1 align="center">
+  [![codewars](https://www.codewars.com/users/Chebupela/badges/small)](https://www.codewars.com/users/Chebupela)  
+</h1>
 
 
 - 🌱 I’m currently learning **Frontend, JavaScript, frameworks**
