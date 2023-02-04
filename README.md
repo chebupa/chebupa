@@ -4,9 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1&color=20F700&center=true&vCenter=true&width=435&lines=Computer+science+student;and+a+frontend+developer" alt="Typing SVG" /></a>
-</h1>
 
-<h1 align="center">
   <img align="center" src="https://www.codewars.com/users/Chebupela/badges/small"></img>
 </h1>
 
