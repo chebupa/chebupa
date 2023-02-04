@@ -5,6 +5,7 @@
 
 [![codewars](https://www.codewars.com/users/Chebupela/badges/small)](https://www.codewars.com/users/Chebupela)  
 
+<h1 align="center">[![codewars](https://www.codewars.com/users/Chebupela/badges/small)](https://www.codewars.com/users/Chebupela)  </h1>
 
 - 🌱 I’m currently learning **Frontend, JavaScript, frameworks**
 
