@@ -1,6 +1,6 @@
 # Chebupa
  
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aristarh</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> </h1>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aristarh</a></h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1&color=20F700&center=true&vCenter=true&width=435&lines=Computer+science+student;and+a+frontend+developer" alt="Typing SVG" /></a>
@@ -15,14 +15,14 @@
 
 - 🌍 I speak Russian (native), English (B2)
 
-### Connect with me:
+### 📱Connect with me:
 <p align="left">
 <a href="https://t.me/chebupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
 <a href="https://vk.com/chebumazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
 <a href="https://codepen.io/Chebupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/codepen.svg" alt="daniilshat" height="40" width="40" /></a>
 </p>
 
-### Languages:
+### 💻Languages:
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-### Tools:
+### 🎛Tools:
 <p align="left"> 
 <a href="https://desktop.github.com" target="_blank" rel="noreferrer"> <img src="github-desktop.png" alt="github" width="45" height="45"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
