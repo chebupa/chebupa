@@ -42,7 +42,7 @@
 </p>
 
 <!-- contributions -->
-<a href=#><img src="github-user-contribution.svg.svg"></a>
+<a href=#><img src="github-user-contribution.svg"></a>
 
 <!-- visitor count -->
 <p align="center"> 
