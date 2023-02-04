@@ -5,7 +5,7 @@
 
 [![codewars](https://www.codewars.com/users/Chebupela/badges/small)](https://www.codewars.com/users/Chebupela)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1&color=20F700&center=true&vCenter=true&multiline=true&width=435&lines=Computer+science+student;and+a+frontend+developer" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Frontend, JavaScript, frameworks**
 
