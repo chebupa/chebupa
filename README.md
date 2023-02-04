@@ -5,6 +5,8 @@
 
 [![codewars](https://www.codewars.com/users/Chebupela/badges/small)](https://www.codewars.com/users/Chebupela)  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **Frontend, JavaScript, frameworks**
 
 - 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
