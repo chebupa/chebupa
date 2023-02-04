@@ -42,10 +42,10 @@
 </p>
 
 <!-- contributions -->
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src=".svg"></a>
 
 <!-- visitor count -->
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chebupa/count.svg" />
+  <img src="https://profile-counter.glitch.me/github-user-contribution.svg" />
 </p>
