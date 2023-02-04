@@ -13,7 +13,7 @@
 
  📫 How to reach me **aristarhsakulin@gmail.com**
 
- 🌍 I speak **Russian** (native), **English** (B2)
+ 🌍 I speak Russian (native), English (B2)
 
 ### Connect with me:
 <p align="left">
