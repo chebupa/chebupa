@@ -47,7 +47,10 @@
 </p>
 
 ### Donate:
-<img src="qr_donate.png" width="100" height="100"></img>
+<a href="https://www.donationalerts.com/r/chebupa">
+  <img src="qr_donate.png" width="100" height="100"></img>
+</a>
+
 
 <!-- visitor count -->
 <p align="center"> 
