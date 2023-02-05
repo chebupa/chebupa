@@ -47,7 +47,7 @@
 </p>
 
 ### Donate:
-<img src="qr_donate"></img>
+<img src="qr_donate.png"></img>
 
 <!-- visitor count -->
 <p align="center"> 
