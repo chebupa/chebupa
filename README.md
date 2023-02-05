@@ -46,7 +46,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
-### Donate:
+### Support me:
 <a href="https://www.donationalerts.com/r/chebupa">
   <img src="qr_donate.png" width="100" height="100"></img>
 </a>
