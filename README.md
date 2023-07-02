@@ -1,6 +1,6 @@
 # <a href="https://chebupa.github.io/">chebupa.github.io</a>
  
-<h1 align="center">Hi there, I'm <a href="https://chebupa.ru/" target="_blank">Aristarh 👋</a></h1>
+<h1 align="center">Hi there 👋</a></h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1&color=20F700&center=true&vCenter=true&width=435&lines=Computer+science+student;and+a+frontend+developer" alt="Typing SVG" /></a>
