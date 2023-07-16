@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋</a></h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1500&pause=750&color=02E421&center=true&vCenter=true&multiline=true&width=435&lines=%3D-%3D%3D-%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3Do%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3D-%3D%3D-%3D;console.log('Hello+World');%3D-%3D%3D-%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3Do%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3D-%3D%3D-%3D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1500&pause=500&color=02E421&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%3D-%3D%3D-%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3Do%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3D-%3D%3D-%3D;%E2%A0%80;console.log('Hello+World');%E2%A0%80;%3D-%3D%3D-%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3Do%3D%3D-%3D%3D%3D-%3D%3D%3D-%3D%3D-%3D%3D-%3D" alt="Typing SVG" /></a>
 
   <!-- <img align="center" src="https://www.codewars.com/users/Chebupela/badges/large"></img> -->
 </h1>
