@@ -11,7 +11,7 @@
 
  🌱 I’m currently learning **Frontend, JavaScript, React**
 
- 📫 How to reach me **aristarhsakulin@gmail.com**
+ 📫 How to reach me: **aristarhsakulin@gmail.com**
 
  🌍 I speak Russian (native), English (B2)
 
