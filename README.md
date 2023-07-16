@@ -9,7 +9,7 @@
 </h1>
 
 
- 🌱 I’m currently learning **Frontend, JavaScript, frameworks**
+ 🌱 I’m currently learning **Frontend, JavaScript, React**
 
  📫 How to reach me **aristarhsakulin@gmail.com**
 
