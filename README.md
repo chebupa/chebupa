@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=02E421&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=console.log('Hello+World')" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=02E421&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=console.log('Hello+World')" alt="Typing SVG" /></a>
 
   <!-- <img align="center" src="https://www.codewars.com/users/Chebupela/badges/large"></img> -->
 </h1>
