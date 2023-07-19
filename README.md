@@ -9,7 +9,7 @@
 </h1>
 
 
- 🌱 I’m currently learning **Frontend: JavaScript, TypeScript, React, Webpack, SCSS, Babel (maybe React native in the future)**
+ 🌱 Currently I’m learning **Frontend: JavaScript, TypeScript, React, Webpack, SCSS, Babel (maybe React native in the future)**
 
  📫 How to reach me: **aristarhsakulin@gmail.com**
 
