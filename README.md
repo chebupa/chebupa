@@ -11,7 +11,7 @@
 
  🌱 Currently I’m learning **Frontend: JavaScript, TypeScript, React, Webpack, SCSS, Babel (maybe DBs and Docker in the future)**
 
- 📫 How to reach me: **chebupa@gmail.com**
+ 📫 How to reach me: **chebupadev@gmail.com**
 
  🌍 I speak Russian (native), English (B2)
 
