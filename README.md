@@ -9,7 +9,7 @@
 </h1>
 
 
- 🌱 Currently I’m learning **_**
+ 🌱 Currently I’m learning **Frontend, Backend, ML**
 
  📫 How to reach me: **chebupadev@gmail.com**
 
