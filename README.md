@@ -9,7 +9,7 @@
 </h1>
 
 
- 🌱 Currently I’m learning **Frontend, Backend, ML**
+ 🌱 Currently I’m learning **Frontend, Backend, ML, BigData**
 
  📫 How to reach me: **chebupadev@gmail.com**
 
