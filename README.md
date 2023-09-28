@@ -9,12 +9,9 @@
 </h1>
 
 
- 🌱 Currently I’m learning **Frontend, Backend, ML, BigData**
-
  📫 How to reach me: **chebupadev@gmail.com**
 
- 🌍 I speak Russian (native), English (B2)
-
+ 🌍 Russian (native), English (B2)
 
 
 ### Skills:
@@ -33,12 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
-<!-- Donate -->
-### Support me:
-<a href="https://www.donationalerts.com/r/chebupa">
-  <img src="qr_donate.png" width="100" height="100"></img>
-</a>
 
 <!-- visitor count -->
 <p align="center"> 
