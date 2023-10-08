@@ -32,9 +32,13 @@
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="50" height="40"/> </a> 
 
 <div id="stat" align="center">
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chebupa&theme=github_dark)
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chebupa&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chebupa&theme=github_dark)
+
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
