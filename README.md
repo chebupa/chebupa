@@ -33,12 +33,7 @@
 
 <div id="stat" align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chebupa&theme=github_dark">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chebupa&theme=github_dark">
-
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chebupa&theme=github_dark">
-
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
