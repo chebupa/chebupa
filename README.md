@@ -13,7 +13,7 @@
 
  🌍 Russian (native), English (B2)
 
----
+
 ### Skills:
 <p align="left"> 
 <!-- CSS -->
@@ -31,13 +31,8 @@
 <!-- markdown -->
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="50" height="40"/> </a> 
 
-<div id="stat" align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chebupa&theme=github_dark">
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)]
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!-- visitor count -->
