@@ -13,7 +13,7 @@
 
  🌍 Russian (native), English (B2)
 
-
+---
 ### Skills:
 <p align="left"> 
 <!-- CSS -->
@@ -43,8 +43,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
 </p>
+---
 
 <!-- visitor count -->
 <p align="center"> 
