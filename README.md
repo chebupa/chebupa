@@ -34,7 +34,7 @@
 <div id="stat" align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chebupa&theme=github_dark">
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)]
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
