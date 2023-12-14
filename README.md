@@ -1,5 +1,3 @@
-# <a href="https://chebupa.github.io/">chebupa.github.io</a>
- 
 <h1 align="center">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
 
 <h1 align="center">
