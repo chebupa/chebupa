@@ -1,4 +1,4 @@
-<h1 align="center" size="1">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
+<h1 align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=02E421&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=console.log('Hello+World')" alt="Typing SVG" /></a>
