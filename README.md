@@ -14,7 +14,7 @@
  🌍 Russian (native), English (B2)
 
 
-### Languages and tools:
+## Languages and tools:
 <p align="left"> 
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
