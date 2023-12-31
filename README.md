@@ -1,9 +1,9 @@
-<h3 align="center">
+<h1 align="center">
  Hi there, I'm
  <a href="https://chebupa.github.io/" target="_blank">
   Aristarh 👋
  </a>
-</h3>
+</h1>
 
 <p align="center">
  <b>
