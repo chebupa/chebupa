@@ -23,7 +23,7 @@
 
 <!-- frontend -->
 <p align="center">Frontend</p>
-<p align="center">
+<p align="center" style="background-color: red;">
   <!-- react -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
   <!-- typescript -->
