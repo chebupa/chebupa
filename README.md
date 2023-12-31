@@ -30,9 +30,9 @@
   <!-- js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <!-- npm -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
+ 
   <!-- markdown -->
-  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" width="50" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" height="50"/>
 </p>
 
 <p align="center">Backend</p>
