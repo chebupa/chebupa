@@ -1,5 +1,4 @@
 <h1 align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
-<h1 align="center"></h1>
 
 
  📫 **chebupadev@gmail.com**
