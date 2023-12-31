@@ -2,7 +2,7 @@
 
 <p align="center">
  <b>
-  <a href="mailto: chebupadev@gmail.com">📫 chebupadev@gmail.com</a>
+  📫<a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
  </b>
  <p>🌍 Russian (native), English (B2)</p>
 </p>
