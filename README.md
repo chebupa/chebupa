@@ -15,11 +15,14 @@
 
 <h1></h1>
 
+
+
 <h3 align="center">
  <b>Languages and tools:</b>
 </h3>
+
 <p align="center">Frontend</p>
-<p align="center"> 
+<p align="center">
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" width="40" height="40"/>
   <!-- CSS -->
@@ -37,6 +40,11 @@
   <!-- markdown -->
   <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" width="50" height="40"/>
 </p>
+
+<p align="center">Backend</p>
+<p align="center"></p>
+
+
 
 <p align="center">
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
