@@ -1,11 +1,9 @@
-<font size="10" align="center">
+<h3 align="center">
  Hi there, I'm
  <a href="https://chebupa.github.io/" target="_blank">
   Aristarh 👋
  </a>
-</font>
-
-<p style="font-size: 25px;">Your content here</p>
+</h3>
 
 <p align="center">
  <b>
