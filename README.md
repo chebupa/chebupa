@@ -3,8 +3,9 @@
 <p align="center">
  <b>
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
+  <br>
+  <p>🌍 Russian (native), English (B2)</p>
  </b>
- <p>🌍 Russian (native), English (B2)</p>
 </p>
 
 <p align="center">
