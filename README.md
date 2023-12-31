@@ -1,4 +1,4 @@
-<font size=10 align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></font>
+<font size="10" align="center">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></font>
 
 <p align="center">
  <b>
