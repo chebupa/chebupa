@@ -26,9 +26,9 @@
   <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" width="50" height="40"/>
 </p>
 
-<p align="center">
+<div align="center">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 <!-- visitor count -->
 <p align="center"> 
