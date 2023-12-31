@@ -8,7 +8,7 @@
  </b>
 </p>
 
-<hr border="10">
+<hr border="10px">
 
 <p align="center">
  <b>Languages and tools:</b>
