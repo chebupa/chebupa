@@ -1,4 +1,4 @@
-<h1 align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
+<h1 border="0px" align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
 
 <p align="center">
  <b>
@@ -8,7 +8,7 @@
  </b>
 </p>
 
-<hr>
+---
 
 <p align="center">
  <b>Languages and tools:</b>
