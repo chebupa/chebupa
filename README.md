@@ -8,7 +8,7 @@
  </b>
 </p>
 
----
+<hr>
 
 <p align="center">
  <b>Languages and tools:</b>
