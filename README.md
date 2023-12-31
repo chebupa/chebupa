@@ -21,6 +21,7 @@
  <b>Languages and tools:</b>
 </h3>
 
+<!-- frontend -->
 <p align="center">Frontend</p>
 <p align="center">
   <!-- react -->
@@ -37,10 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" height="50"/>
 </p>
 
+<!-- backend -->
 <p align="center">Backend</p>
 <p align="center">
   <!-- express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  <!-- nodejs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <!-- typescript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
   <!-- js -->
@@ -52,7 +56,6 @@
 
 
 <p align="center">
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact">
 </p>
 
