@@ -1,7 +1,7 @@
 <h1 align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
 
 <p align="center">
- <p>📫 chebupadev@gmail.com</p>
+ <a href="chebupadev@gmail.com">📫 chebupadev@gmail.com</a>
  <p>🌍 Russian (native), English (B2)</p>
 </p>
  
