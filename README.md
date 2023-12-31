@@ -6,10 +6,6 @@
  </b>
  <p>🌍 Russian (native), English (B2)</p>
 </p>
- 
- 📫 **chebupadev@gmail.com**
-
- 🌍 Russian (native), English (B2)
 
 <p align="center">
  <b>Languages and tools:</b>
