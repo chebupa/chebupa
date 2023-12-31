@@ -15,9 +15,9 @@
 
 <h1></h1>
 
-<p align="center">
+<h3 align="center">
  <b>Languages and tools:</b>
-</p>
+</h3>
 <p align="center"> 
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" width="40" height="40"/>
