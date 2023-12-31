@@ -53,6 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 </p>
 
+<!-- other -->
+<p align="center">Other</p>
+<p align="center">
+  <!-- docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+</p>
+
 
 
 <p align="center">
