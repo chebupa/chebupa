@@ -1,7 +1,9 @@
 <h1 align="center" size="+7">Hi there, I'm <a href="https://chebupa.github.io/" target="_blank">Aristarh 👋</a></h1>
 
 <p align="center">
- <a href="mailto: chebupadev@gmail.com">📫 chebupadev@gmail.com</a>
+ <b>
+  <a href="mailto: chebupadev@gmail.com">📫 chebupadev@gmail.com</a>
+ </b>
  <p>🌍 Russian (native), English (B2)</p>
 </p>
  
