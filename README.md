@@ -2,7 +2,7 @@
  <img src="assets/gihub_banner.png">
 </a>
 
-&nbsp;
+&thinsp;
 
 <p align="center">
  <b>
