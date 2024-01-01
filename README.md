@@ -1,6 +1,6 @@
 <!-- banner -->
 <a href="https://chebupa.github.io" target="_blank" rel="noreferrer">
- <img src="assets/gihub_banner.png">
+ <img src="assets/images/gihub_banner.png">
 </a>
 
 &thinsp;
@@ -82,13 +82,17 @@
 
 <!-- donation -->
 <h3 align="center">Support my work</h3>
-<a href="https://www.buymeacoffee.com/chebupa" target="_blank" rel="noreferrer">
-  <img src="images/donation/bmc-button.svg" alt="Buy me a coffee" width="210" height="59">
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/chebupa" target="_blank" rel="noreferrer">
+    <img src="assets/images/donation/bmc-button.svg" alt="Buy me a coffee" width="210" height="59">
+  </a>
+</p>
 <p>or</p>
-<a href="https://www.donationalerts.com/r/chebupa" target="_blank" rel="noreferrer">
-  <img src="images/donation/DA_Logo_Color.svg" alt="Donation alerts" width="210" height="59">
+<p align="center">
+  <a href="https://www.donationalerts.com/r/chebupa" target="_blank" rel="noreferrer">
+  <img src="assets/images/donation/DA_Logo_Color.svg" alt="Donation alerts" width="210" height="59">
 </a>
+</p>
 
 <!-- visitor count -->
 <p align="center"> 
