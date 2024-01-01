@@ -77,22 +77,14 @@
 </p>
 
 ```ts
-class Developer {
-  let name = "Lukas Pistrol"
-  let pronouns = "he/him/his"
-  let age = 26
-  let role = "iOS & macOS Developer"
-  let location = "Vienna 🇦🇹"
-  let languages = ["de_DE", "en_US"]
-  let skills = ["Swift", "Kotlin", "JavaScript", "Python"]
-  
-  public static sayHi = (): string => {
-    return "Hi"
-  }
+const Developer {
+  name: "Aristarh Shakulin",
+  pronouns: "he/him/his",
+  role: "Fullstack Web Developer",
+  location: "Rostov-on-Don 🇷🇺",
+  languages: ["ru_RU", "en_US"],
+  skills: ["JavaScript", "TypeScript", "Python"]
 }
-
-let me = Developer()
-me.sayHi()
 ```
 
 <!-- visitor count -->
