@@ -76,17 +76,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chebupa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
-```ts
-const Developer {
-  name: "Aristarh Shakulin",
-  pronouns: "he/him/his",
-  role: "Fullstack Web Developer",
-  location: "Rostov-on-Don 🇷🇺",
-  languages: ["ru_RU", "en_US"],
-  skills: ["JavaScript", "TypeScript", "Python"]
-}
-```
-
 <!-- visitor count -->
 <p align="center"> 
   Visitor count<br>
