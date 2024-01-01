@@ -87,7 +87,6 @@
     <img src="assets/images/donation/bmc-button.svg" alt="Buy me a coffee" width="210" height="59">
   </a>
 </p>
-<t align="center">or</t>
 <p align="center">
   <a href="https://www.donationalerts.com/r/chebupa" target="_blank" rel="noreferrer">
   <img src="assets/images/donation/DA_Logo_Color.svg" alt="Donation alerts" width="210" height="59">
