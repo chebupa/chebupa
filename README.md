@@ -80,7 +80,7 @@
 
 <h1></h1>
 <h3 align="center">Support my work</h3>
-<a href="https://www.buymeacoffee.com/chebupa" target="_blank" rel="noreferrer">
+<a align="center" href="https://www.buymeacoffee.com/chebupa" target="_blank" rel="noreferrer">
   <img src="images/donation/bmc-button.svg" alt="Buy me a coffee" width="210" height="59">
 </a>
 <p>or</p>
