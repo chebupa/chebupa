@@ -1,12 +1,5 @@
 <img src="assets/gihub_banner.png">
 
-<h1 align="center">
- Hi there, I'm
- <a href="https://chebupa.github.io/" target="_blank">
-  Aristarh 👋
- </a>
-</h1>
-
 <p align="center">
  <b>
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
