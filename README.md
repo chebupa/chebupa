@@ -1,4 +1,4 @@
-<a href="https://chebupa.github.io">
+<a href="https://chebupa.github.io" target="_blank">
  <img src="assets/gihub_banner.png">
 </a>
 
