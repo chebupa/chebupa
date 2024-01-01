@@ -2,25 +2,6 @@
  <img src="assets/gihub_banner.png">
 </a>
 
-```swift
-struct Developer {
-  let name = "Lukas Pistrol"
-  let pronouns = "he/him/his"
-  let age = 26
-  let role = "iOS & macOS Developer"
-  let location = "Vienna 🇦🇹"
-  let languages = ["de_DE", "en_US"]
-  let skills = ["Swift", "Kotlin", "JavaScript", "Python"]
-  
-  func sayHi() {
-    print("Hey, thanks for dropping by, feel free to have a look at my work!")
-  }
-}
-
-let me = Developer()
-me.sayHi()
-```
-
 &thinsp;
 
 <p align="center">
@@ -94,6 +75,25 @@ me.sayHi()
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chebupa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
+
+```swift
+struct Developer {
+  let name = "Lukas Pistrol"
+  let pronouns = "he/him/his"
+  let age = 26
+  let role = "iOS & macOS Developer"
+  let location = "Vienna 🇦🇹"
+  let languages = ["de_DE", "en_US"]
+  let skills = ["Swift", "Kotlin", "JavaScript", "Python"]
+  
+  func sayHi() {
+    print("Hey, thanks for dropping by, feel free to have a look at my work!")
+  }
+}
+
+let me = Developer()
+me.sayHi()
+```
 
 <!-- visitor count -->
 <p align="center"> 
