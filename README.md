@@ -5,7 +5,7 @@
 &thinsp;
 
 <p align="center">
- <b font-size: large;>
+ <b>
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
   <br>
   <p align="center">🌍 Russian (native), English (B2)</p>
