@@ -1,9 +1,11 @@
+<!-- banner -->
 <a href="https://chebupa.github.io" target="_blank" rel="noreferrer">
  <img src="assets/gihub_banner.png">
 </a>
 
 &thinsp;
 
+<!-- contacts -->
 <p align="center">
  <b>
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
@@ -14,6 +16,7 @@
 
 <h1></h1>
 
+<!-- skills -->
 <h3 align="center">
  <b>Languages and tools:</b>
 </h3>
@@ -69,13 +72,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>
 </p>
 
-<h1></h1>
-<h3 align="center">Support my work</h3>
-
+<!-- statistics -->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chebupa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
+
+<h1></h1>
+<h3 align="center">Support my work</h3>
 
 <!-- visitor count -->
 <p align="center"> 
