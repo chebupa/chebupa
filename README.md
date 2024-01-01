@@ -1,3 +1,5 @@
+<img src="assets/gihub_banner.png">
+
 <h1 align="center">
  Hi there, I'm
  <a href="https://chebupa.github.io/" target="_blank">
