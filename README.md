@@ -76,8 +76,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chebupa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
-```js
-const Developer {
+```ts
+class Developer {
   let name = "Lukas Pistrol"
   let pronouns = "he/him/his"
   let age = 26
@@ -86,8 +86,8 @@ const Developer {
   let languages = ["de_DE", "en_US"]
   let skills = ["Swift", "Kotlin", "JavaScript", "Python"]
   
-  func sayHi() {
-    print("Hey, thanks for dropping by, feel free to have a look at my work!")
+  public static sayHi = (): string => {
+    return "Hi"
   }
 }
 
