@@ -80,6 +80,13 @@
 
 <h1></h1>
 <h3 align="center">Support my work</h3>
+<a href="https://www.buymeacoffee.com/chebupa" target="_blank" rel="noreferrer">
+  <img src="images/donation/bmc-button.svg" alt="Buy me a coffee" width="210" height="59">
+</a>
+<p>or</p>
+<a href="https://www.donationalerts.com/r/chebupa" target="_blank" rel="noreferrer">
+  <img src="images/donation/DA_Logo_Color.svg" alt="Donation alerts" width="210" height="59">
+</a>
 
 <!-- visitor count -->
 <p align="center"> 
