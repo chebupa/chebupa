@@ -76,8 +76,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chebupa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
-```swift
-struct Developer {
+```js
+const Developer {
   let name = "Lukas Pistrol"
   let pronouns = "he/him/his"
   let age = 26
