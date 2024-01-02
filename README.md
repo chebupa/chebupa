@@ -11,6 +11,7 @@
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
   <br>
   <p align="center">🌍 Russian (native), English (B2)</p>
+  📄 <a href="assets/images/text/CV.pdf">CV</a>
  </b>
 </p>
 
@@ -87,6 +88,7 @@
     <img src="assets/images/donation/bmc-button.svg" alt="Buy me a coffee" width="210" height="59">
   </a>
 </p>
+<p>or</p>
 <p align="center">
   <a href="https://www.donationalerts.com/r/chebupa" target="_blank" rel="noreferrer">
   <img src="assets/images/donation/DA_Logo_Color.svg" alt="Donation alerts" width="210" height="59">
