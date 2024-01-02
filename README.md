@@ -11,7 +11,7 @@
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
   <br>
   <p align="center">🌍 Russian (native), English (B2)</p>
-  📄 <a href="assets/images/text/CV.pdf" download>CV</a>
+  <p align="center>📄 <a href="assets/images/text/CV.pdf" download>CV</a></p>
  </b>
 </p>
 
