@@ -82,7 +82,7 @@
 <!-- statistics -->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact">
- <img src="https://github-readme-stats.vercel.app/api?username=chebupa&show_icons=true&theme=light" />
+ <img src="https://github-readme-stats.vercel.app/api?username=chebupa&show_icons=true&theme=light&rank_icon=github" />
 </p>
 
 <h1></h1>
