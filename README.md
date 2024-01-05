@@ -65,7 +65,7 @@
   <!-- postgresql -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
   <!-- prisma -->
-  <img src="https://prismalens.vercel.app/header/logo-dark.svg" height="50">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-prisma-icon-421x512-2zghj54r.png" width="50" height="50">
   <!-- heroku -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="50" height="50"/>
 </p>
