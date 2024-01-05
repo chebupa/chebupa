@@ -81,8 +81,8 @@
 
 <!-- statistics -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact">
- <img src="https://github-readme-stats.vercel.app/api?username=chebupa&show_icons=true&theme=light&rank_icon=github" height="175"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebupa&layout=compact" height="170">
+ <img src="https://github-readme-stats.vercel.app/api?username=chebupa&show_icons=true&theme=light&rank_icon=github" height="170"/>
 </p>
 
 <h1></h1>
