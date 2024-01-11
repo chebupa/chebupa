@@ -28,7 +28,7 @@
 </h3>
 
 <!-- frontend -->
-<p align="center">Frontend</p>
+<h2 align="center">Frontend</h2>
 <p align="center">
   <!-- react -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
