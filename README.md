@@ -6,6 +6,7 @@
 &thinsp;
 
 <!-- contacts -->
+<a href="https://chebupa.github.io">My personal website</a>
 <p align="center">
  <b>
   📫 <a href="mailto: chebupadev@gmail.com">chebupadev@gmail.com</a>
