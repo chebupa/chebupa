@@ -73,6 +73,8 @@
   <img src="https://static-00.iconduck.com/assets.00/file-type-prisma-icon-421x512-2zghj54r.png" height="50">
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
+  <!-- yarn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="50" height="50"/>
   <!-- heroku -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="50" height="50"/>
 </p>
