@@ -49,7 +49,7 @@
   <!-- mobx -->
   <img src="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png" width="50" height="50">
   <!-- eslint -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50" height="50"/>
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
   <!-- yarn -->
@@ -74,7 +74,7 @@
   <!-- prisma -->
   <img src="https://static-00.iconduck.com/assets.00/file-type-prisma-icon-421x512-2zghj54r.png" height="50">
   <!-- eslint -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50" height="50"/>
   <!-- npm -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
   <!-- yarn -->
