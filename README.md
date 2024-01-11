@@ -24,7 +24,7 @@
 
 <!-- skills -->
 <h3 align="center">
- <b>Languages and tools:</b>
+ <b>Programming languages and tools:</b>
 </h3>
 
 <!-- frontend -->
