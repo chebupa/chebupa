@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/>
   <!-- mui -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50"/>
+  <!-- styled components -->
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50" height="50"/>
+  <!-- emotion -->
+  <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" width="50" height="50"/>
   <!-- redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
   <!-- mobx -->
