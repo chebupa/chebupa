@@ -98,10 +98,10 @@
 
 <!-- test -->
 <h4 align="center">test</h4>
-<p>
+<h3>
  Puk1:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</p>
+</h3>
 
 <!-- statistics -->
 <p align="center">
