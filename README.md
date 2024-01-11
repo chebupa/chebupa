@@ -63,7 +63,7 @@
 </p>
 
 <!-- backend -->
-<p align="center">Backend</p>
+<h4 align="center">Backend</h4>
 <p align="center">
   <!-- express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
@@ -88,7 +88,7 @@
 </p>
 
 <!-- other -->
-<p align="center">Other</p>
+<h4 align="center">Other</h4>
 <p align="center">
   <!-- git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
