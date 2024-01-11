@@ -7,7 +7,9 @@
 
 <!-- contacts -->
 <p align="center">
- <a href="https://chebupa.github.io">My personal website</a>
+ <b>
+  <a href="https://chebupa.github.io">My personal website</a>
+ </b>
 </p>
 <p align="center">
  <b>
