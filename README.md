@@ -48,6 +48,8 @@
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50" height="50"/>
   <!-- emotion -->
   <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" width="50" height="50"/>
+  <!-- react query -->
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" width="50" height="50"/>
   <!-- redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
   <!-- mobx -->
