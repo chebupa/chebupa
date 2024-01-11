@@ -97,10 +97,18 @@
 </p>
 
 <!-- test -->
-<h4 align="center">test</h4>
+<h4 align="center">Frontend</h4>
 <h3>
- Puk1:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+ Framework(s):
+  <!-- react -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+</h3>
+<h3>
+ PLs:
+  <!-- typescript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <!-- js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 </h3>
 
 <!-- statistics -->
