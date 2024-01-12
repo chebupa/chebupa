@@ -56,6 +56,8 @@
   <img src="https://static-00.iconduck.com/assets.00/mobx-icon-512x512-h6qs5zuq.png" width="50" height="50">
   <!-- storybook -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="50" height="50"/>
+  <!-- jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/>
   <!-- eslint -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50" height="50"/>
   <!-- vite -->
