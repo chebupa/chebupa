@@ -27,6 +27,13 @@
  <b>Programming languages and tools:</b>
 </h3>
 
+<!-- ios -->
+<h4 align="center">iOS</h4>
+<p align="center">
+  <!-- swift -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="50" height="50"/>
+</p>
+
 <!-- frontend -->
 <h4 align="center">Frontend</h4>
 <p align="center">
