@@ -33,7 +33,7 @@
   <!-- swift -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="50" height="50"/>
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
- 
+  <img src="https://seeklogo.com/images/C/cocoapods-logo-45382D8A59-seeklogo.com.png" width="50" height="50"/>
 </p>
 
 <!-- frontend -->
