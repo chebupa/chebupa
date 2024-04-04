@@ -32,13 +32,18 @@
 <p align="center">
   <!-- swift -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="50" height="50"/>
+  <!-- swiftui -->
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/7774181?s=280&v=4" width="50" height="50"/>
+  <!-- cocoapods -->
   <img src="https://seeklogo.com/images/C/cocoapods-logo-45382D8A59-seeklogo.com.png" width="50" height="50"/>
 </p>
 
 <ul>
- <li>asd</li>
+ <li>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
+  asd
+ </li>
 </ul>
 
 <!-- frontend -->
