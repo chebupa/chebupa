@@ -39,15 +39,6 @@
   <img src="https://seeklogo.com/images/C/cocoapods-logo-45382D8A59-seeklogo.com.png" width="50" height="50"/>
 </p>
 
-<ul>
- <li>
-  <h3>
-   asd
-   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
-  </h3>
- </li>
-</ul>
-
 <!-- frontend -->
 <h4 align="center">Frontend</h4>
 <p align="center">
