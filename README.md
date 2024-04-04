@@ -41,8 +41,10 @@
 
 <ul>
  <li>
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
-  <p>asd</p>
+  <h3>
+   asd
+   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
+  </h3>
  </li>
 </ul>
 
