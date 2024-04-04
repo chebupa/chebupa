@@ -42,7 +42,7 @@
 <ul>
  <li>
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
-  asd
+  <p align="center" >asd</p>
  </li>
 </ul>
 
