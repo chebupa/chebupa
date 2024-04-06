@@ -34,7 +34,7 @@
   <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="50" height="50"/>
   <!-- swiftui -->
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50"/>
-  <!-- a -->
+  <!-- alamofire -->
   <img src="https://avatars.githubusercontent.com/u/7774181?s=280&v=4" width="50" height="50"/>
   <!-- cocoapods -->
   <img src="https://seeklogo.com/images/C/cocoapods-logo-45382D8A59-seeklogo.com.png" width="50" height="50"/>
