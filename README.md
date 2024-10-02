@@ -113,6 +113,10 @@
 <!-- other -->
 <h4 align="center">Other</h4>
 <p align="center">
+  <!-- cplusplus -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <!-- arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />        
   <!-- git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <!-- docker -->
