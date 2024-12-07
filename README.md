@@ -1,3 +1,9 @@
+Hi 👋
+
+My name is Aristarh. I'm a Web & iOS developer.
+
+I'm working on Maestri, TurtleApp, CodeCadet and BluetoothRC.
+
 <!-- banner -->
 <a href="https://chebupa.github.io" target="_blank" rel="noreferrer">
  <img src="assets/images/gihub_banner.png">
