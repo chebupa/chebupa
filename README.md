@@ -3,7 +3,7 @@
  
  My name is <b><a href="https://shakulin.ru">Aristarh</a></b>. I'm a <b>Web</b> & <b>iOS</b> developer.
  
- Currently working on <i>Maestri</i>, <i>TurtleApp</i>, <i>CodeCadet</i> and <i>BluetoothRC</i> apps.
+ Currently working on <a href="https://shakulin.ru">Maestri</a>, <a href="https://shakulin.ru">TurtleApp</a>, <a href="https://shakulin.ru">CodeCadet</a> and <a href="https://shakulin.ru">BluetoothRC</a>.
 </p>
 
 <!-- banner -->
