@@ -1,7 +1,7 @@
 <p>
  Hi 👋
 
- My name is <a href="https://shakulin.ru">Aristarh</a>. I'm a Web & iOS developer.
+ My name is <b><a href="https://shakulin.ru">Aristarh</a></b>. I'm a <b>Web</b> & <b>iOS</b> developer.
 
  I'm working on Maestri, TurtleApp, CodeCadet and BluetoothRC apps.
 </p>
