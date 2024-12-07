@@ -1,8 +1,10 @@
-Hi 👋
+<p>
+ Hi 👋
 
-My name is Aristarh. I'm a Web & iOS developer.
+ My name is Aristarh. I'm a Web & iOS developer.
 
-I'm working on Maestri, TurtleApp, CodeCadet and BluetoothRC.
+ I'm working on Maestri, TurtleApp, CodeCadet and BluetoothRC.
+</p>
 
 <!-- banner -->
 <a href="https://chebupa.github.io" target="_blank" rel="noreferrer">
