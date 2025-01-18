@@ -1,7 +1,7 @@
 # Hello there! I'm [Aristarh](https://chebupa.github.io) 👋
 Web & iOS developer with total 2+ years of experience building apps for open-source, on freelance and for international companies.
 <br>
-If you're interested in collaborating here's my [CV](https://google.com) and [Telegram](https://t.me/chebupa).
+If you're interested in collaborating here's my [CV](https://google.com).
 
 &thinsp;
 
