@@ -1,5 +1,5 @@
 # Hello there! I'm [Aristarh](https://chebupa.github.io) 👋
-<b>iOS</b> & former <b>Web</b>  developer with total <b>2+</b> years of experience building apps for open-source, on freelance and for international companies.
+<b>iOS</b> & former <b>web</b>  developer with total <b>2+</b> years of experience building apps for open-source, on freelance and for international companies.
 <br>
 If you're interested in collaborating here's my <b>[CV](https://google.com)</b>.
 
