@@ -1,4 +1,4 @@
-# Hello there! I'm [Aristarh](https://chebupa.github.io) 👋
+# Hello there! I'm [Aristarkh](https://chebupa.github.io) 👋
 <b>iOS</b> & former <b>web</b>  developer with <b>2+</b> years of experience building apps for open-source, on freelance and for international companies.
 <br>
 If you're interested in collaborating, here's my <b>[CV](https://github.com/chebupa)</b>.
